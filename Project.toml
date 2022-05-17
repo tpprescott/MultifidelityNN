@@ -1,0 +1,8 @@
+name = "MultifidelityNN"
+uuid = "8a3581a1-be94-452b-9751-1adbc7f6eee1"
+authors = ["Tom Prescott (Turing) <tprescott@turing.ac.uk>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+MultifidelitySamples = "0b043a10-802d-4423-af4a-fd2f6e318469"
